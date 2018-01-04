@@ -1,0 +1,8 @@
+#Ignore Readme.txt
+Readme.txt
+
+#Ignore cache files __pycache__  .scrapecache
+*cache*
+
+#Ignore pyc file
+*.pyc
